@@ -1,0 +1,6 @@
+in\softronix\config\SwaggerConfig.class
+in\softronix\response\Ticket.class
+in\softronix\request\Passanger.class
+in\softronix\ERailApplication.class
+in\softronix\controller\TicketBookingRestController.class
+in\softronix\ServletInitializer.class
